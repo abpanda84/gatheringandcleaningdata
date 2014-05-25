@@ -10,6 +10,7 @@ Available data:
 Training and Test Data of the smartphones of 30 subjects has been provided.
 
 Steps involved in Summarizing Data:
+------------------------------------
 1. Load the Global Feature Definitions - Applies to both Training and Test Datasets
 2. Load Activity Labels Definitions and Set Friendly Column Names - Applies to both Training and Test Datasets
 3. Load Training Set Related Data
