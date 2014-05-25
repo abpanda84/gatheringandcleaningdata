@@ -83,3 +83,8 @@ testSetData <- read.table("./UCIHARDataset/test/X_Test.txt")
                           ## Write the cast data to a Text File
                           write.table(tidyDataset2, "./myTidyDataSet2.txt", sep="\t") 
                           
+                          
+                          # Ouput Tidy Dataset 2
+                          tidyDataset2
+                          
+                          
